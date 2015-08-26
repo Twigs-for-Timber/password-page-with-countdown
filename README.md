@@ -18,5 +18,5 @@ A newsletter subscription form for Shopify with cookie support and ajax submit, 
 
 
 <a href="https://gratipay.com/Cam/">
-  <img alt="Support via Gratipay" src="https://cdn.rawgit.com/cam/gratipay-badge/2.3.0/dist/gratipay.png" style="max-width:100px;" />
+  <img alt="Support via Gratipay" src="https://cdn.rawgit.com/cam/gratipay-badge/2.3.0/dist/gratipay.svg" style="max-width:100px;" />
 </a>
