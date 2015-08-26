@@ -9,8 +9,8 @@ Twigs for Timber by Cam @ Elkfox
 http://experts.shopify.com/elkfox
 </pre>
 
-# Popup Ajax Subscribe Form
-A newsletter subscription form for Shopify with cookie support and ajax submit, with support for both internal Shopify newsletter subscriptions or MailChimp based subscriptions. Note that the popup snippet must be placed before any other embedded MailChimp forms, or those forms will not work.
+# Password Page With Countdown
+This is a simple coming soon (or password) page template to be used on sites that are launching soon. It features a countdown timer and subscribe form.
 
 * [Article](http://twigs.club/password-page-with-countdown)
 * [Demo](https://twigs-demo.myshopify.com/pages/password-page-with-countdown)
